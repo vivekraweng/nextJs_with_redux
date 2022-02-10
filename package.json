@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "next": "^9.2.1",
     "next-redux-wrapper": "^4.0.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2",
     "rbx": "^2.2.0",
     "react": "^16.12.0",
